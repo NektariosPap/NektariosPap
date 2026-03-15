@@ -15,4 +15,6 @@ Computer Science and Software Engineering student at the University of Ioannina.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NektariosPap&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+[![wakatime](https://wakatime.com/badge/user/630c9f2e-4f98-415a-a7d0-2170c886a0f4.svg)](https://wakatime.com/@630c9f2e-4f98-415a-a7d0-2170c886a0f4)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
