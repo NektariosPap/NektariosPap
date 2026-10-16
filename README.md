@@ -30,6 +30,7 @@ Computer Science and Software Engineering student at the University of Ioannina.
 ![](https://nirzak-streak-stats.vercel.app/?user=NektariosPap&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NektariosPap&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NektariosPap&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
