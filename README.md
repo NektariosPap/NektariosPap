@@ -26,6 +26,7 @@ Computer Science and Software Engineering student at the University of Ioannina.
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ![](https://github-readme-stats.vercel.app/api?username=NektariosPap&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NektariosPap&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NektariosPap&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
